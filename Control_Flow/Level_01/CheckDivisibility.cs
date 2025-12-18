@@ -8,7 +8,7 @@ namespace Core_Programming.Control_Flow.Level_01
 {
     internal class CheckDivisibility
     {
-        public void check(int num)
+        public void Check(int num)
         {
            bool divisibleBy5 = (num % 5 == 0);
             if (divisibleBy5)
