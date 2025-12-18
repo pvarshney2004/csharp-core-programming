@@ -24,7 +24,7 @@ The goal of this project is to strengthen **core programming concepts in C#** th
 ## 📂 Branch Structure
 
 ### 🔹 `programming-elements` branch
-Focuses on **fundamental programming concepts** using C#.
+Focuses on **fundamental programming concepts** in C#, covering basic operations, expressions, and logic building through hands-on practice problems.
 
 #### 📁 Levels
 - ## 📘 Level 01 – Programming Basics (C#)
@@ -87,6 +87,46 @@ Focuses on **fundamental programming concepts** using C#.
 - Applying operator precedence in expressions
 - Taking and validating user input
 - Solving real-world numerical problems using C#
+
+---
+
+### 🔹 `control-flow` branch
+Focuses on **control flow constructs** in C#, including conditional statements and looping mechanisms to implement decision-making and repeated execution in programs.
+
+#### 📁 Levels
+- ## 📘 Level 01 – Control Flow Basics (C#)
+  This level focuses on **decision-making and looping constructs** in C#.  
+  The programs help in understanding `if-else` conditions, `while` loops, `for` loops, and logical flow control through real-world examples.
+
+---
+
+### 📝 Practice Problems
+
+- Program to check whether a given number is divisible by 5.
+- Program to check if the first number is the smallest among three numbers.
+- Program to check whether a given number is a natural number and find the sum of first _n_ natural numbers.
+- Program to check whether a person is eligible to vote based on age.
+- Program to determine whether a number is positive, negative, or zero.
+- Program to check whether a given date falls under the Spring Season.
+- Program to perform a rocket launch countdown using a `while` loop.
+- Program to perform a rocket launch countdown using a `for` loop.
+- Program to find the sum of numbers entered by the user until 0 is entered.
+- Program to calculate the sum of _n_ natural numbers using a `while` loop and verify it with the formula _n × (n + 1) / 2_.
+- Program to calculate the sum of _n_ natural numbers using a `for` loop and verify it with the formula.
+- Program to find the factorial of a number using a `while` loop.
+- Program to find the factorial of a number using a `for` loop.
+- Program to print odd and even numbers from 1 up to a given number.
+- Program to calculate employee bonus based on years of service.
+- Program to generate the multiplication table of a number from 6 to 9.
+
+---
+
+### 🎯 Learning Outcomes
+- Using conditional statements for decision making
+- Working with `for` and `while` loops
+- Understanding loop control and termination
+- Applying logical conditions to real-world problems
+- Strengthening problem-solving and flow control skills
 
 ---
 
