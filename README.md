@@ -138,12 +138,6 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 
 ### 📝 Practice Problems
 
-- Program to check whether a given number is an Armstrong number using digit-based computation.
-- Program to count the number of digits in an integer.
-- Program to check whether a given number is a Harshad number.
-- Program to check whether a given number is an Abundant number.
-- Program to determine the day of the week for a given date using mathematical formulas.
-- Program to create a calculator using the `switch...case` statement.
 - Program to calculate the power of a number using a loop.
 - Program to find all factors of a number entered by the user.
 - Program to find all multiples of a given number below 100.
@@ -167,7 +161,7 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 ---
 
 - ## 📘 Level 03 – Advanced Control Flow & Number Logic (C#)
-  This level focuses on **advanced control flow concepts**, including loop-based digit manipulation, number property checks, formula-based calculations, and decision-making using `switch-      case`.
+  This level focuses on **advanced control flow concepts**, including loop-based digit manipulation, number property checks, formula-based calculations, and decision-making using `switch-case`.
 
 ---
 
