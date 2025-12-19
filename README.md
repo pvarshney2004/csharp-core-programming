@@ -185,6 +185,37 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 
 ---
 
+### 🔹 `arrays` branch
+
+#### 📁 Levels
+- ## 📘 Level 01 – Arrays & Multi-Dimensional Arrays (C#)
+  This level focuses on **working with single-dimensional and multi-dimensional arrays** in C#.  
+  The programs help in understanding array creation, indexing, iteration, dynamic resizing, and applying logic using arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to create a 2D array (matrix) using user input and copy all its elements into a 1D array.
+- Program to implement FizzBuzz using a string array and display results with index positions.
+- Program to store odd and even numbers between 1 and a given number into separate arrays and display them.
+- Program to find all factors of a number, store them in an array, dynamically resize the array if needed, and display the factors.
+- Program to calculate the mean height of players in a football team using an array.
+- Program to take the ages of 10 students, store them in an array, and check voting eligibility for each student.
+- Program to take user input for 5 numbers, determine whether each number is positive, negative, or zero, check even or odd for positives, and compare the first and last elements.
+- Program to print the multiplication table of a number using an array or loop-based approach.
+
+---
+
+### 🎯 Learning Outcomes
+- Creating and accessing 1D and 2D arrays
+- Using nested loops for matrix operations
+- Dynamic array resizing techniques
+- Applying conditional logic with arrays
+- Solving real-world problems using array data structures
+  
+---
+
 ## 👤 Author
 **Prashant Varshney**  
 B.Tech CSE (Data Analytics)  
