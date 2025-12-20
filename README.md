@@ -186,6 +186,7 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 ---
 
 ### 🔹 `arrays` branch
+Focuses on mastering array concepts in C#, from basic array operations to advanced real-world problem solving using one-dimensional and multi-dimensional arrays.
 
 #### 📁 Levels
 - ## 📘 Level 01 – Arrays & Multi-Dimensional Arrays (C#)
@@ -214,6 +215,34 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 - Applying conditional logic with arrays
 - Solving real-world problems using array data structures
   
+---
+
+- ## 📘 Level 02 – Advanced Array Applications (C#)
+  This level focuses on **advanced array usage**, including frequency counting, reversing data, multi-dimensional arrays, and real-world data processing scenarios using arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to find the frequency of each digit in a given number using an array.
+- Program to take marks of students in Physics, Chemistry, and Maths, calculate percentage, and assign grades using arrays.
+- Program to rewrite the student marks and grading system using a 2D array.
+- Program to reverse a number by storing its digits in an array and displaying them in reverse order.
+- Program to calculate Body Mass Index (BMI) of multiple persons and display height, weight, BMI, and health status.
+- Program to calculate the bonus of 10 employees based on years of service and display total bonus, old salary, and new salary.
+- Program to find the youngest and tallest friend among Amar, Akbar, and Anthony using arrays.
+- Program to store digits of a number in an array and find the largest and second largest digits.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Using arrays for frequency counting and data analysis
+- Working with multi-dimensional arrays
+- Applying validation and re-input logic
+- Solving real-world problems using arrays
+- Strengthening logical and analytical thinking
+
 ---
 
 ## 👤 Author
