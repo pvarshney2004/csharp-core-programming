@@ -245,6 +245,74 @@ Focuses on mastering array concepts in C#, from basic array operations to advanc
 
 ---
 
+### 🔹 `string` branch
+This branch focuses on string manipulation and exception handling in C#, starting from character-level operations to advanced string problem-solving without relying heavily on built-in methods.
+
+#### 📁 Levels
+- ## 📘 Level 01 – String Fundamentals & Exception Handling (C#)
+  This level introduces core string operations, character-based logic, manual implementations of built-in methods, and common runtime exceptions related to strings and arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to compare two strings using character-by-character logic (`string[index]`) and verify the result using `string.Equals()`.
+- Program to create a substring using character indexing and compare the result with `string.Substring()`.
+- Program to return all characters of a string without using `ToCharArray()`.
+- Program to demonstrate `NullReferenceException`.
+- Program to demonstrate `IndexOutOfRangeException`.
+- Program to demonstrate `ArgumentOutOfRangeException`.
+- Program to demonstrate `FormatException`.
+- Program to demonstrate `IndexOutOfRangeException` using arrays.
+- Program to convert text to uppercase using ASCII-based character manipulation and compare it with `string.ToUpper()`.
+- Program to convert text to lowercase using ASCII-based character manipulation and compare it with `string.ToLower()`.
+- Program to split text into words without using `string.Split()` and display each word along with its length using a 2D array.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understanding string indexing and character-level processing
+- Implementing built-in string methods manually
+- Handling common runtime exceptions in C#
+- Working with ASCII values for character conversion
+- Improving logical thinking using strings
+
+---
+
+- ## 📘 Level 02 – Advanced String Applications (C#)
+
+This level focuses on **advanced string problem solving**, including pattern analysis, transformations, comparisons, and real-world text processing without relying on built-in shortcuts.
+
+---
+
+### 📝 Practice Problems
+
+- Program to count vowels and consonants in a given string.
+- Program to reverse a string without using built-in reverse functions.
+- Program to check whether a string is a palindrome.
+- Program to remove duplicate characters from a string.
+- Program to find the longest word in a sentence.
+- Program to count the occurrences of a substring in a string.
+- Program to toggle the case of each character in a string.
+- Program to compare two strings lexicographically without using built-in compare methods.
+- Program to find the most frequent character in a string.
+- Program to remove all occurrences of a specific character from a string.
+- Program to check whether two strings are anagrams of each other.
+- Program to implement a custom replace method to replace a word in a sentence.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Applying advanced string traversal and comparison logic
+- Performing frequency analysis and pattern matching
+- Solving real-world string manipulation problems
+- Strengthening algorithmic thinking using strings
+- Gaining confidence without relying on built-in methods
+
+---
+
 ## 👤 Author
 **Prashant Varshney**  
 B.Tech CSE (Data Analytics)  
