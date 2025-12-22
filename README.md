@@ -385,6 +385,39 @@ This branch is divided into **three progressive levels**, moving from basic meth
 
 ---
 
+- ## 📘 Level 03 – Advanced Utility & Mathematical Methods (C#)
+  This level emphasizes **static utility classes**, advanced mathematical logic, randomness, geometry, and matrix operations using well-structured methods.
+
+---
+
+### 📝 Practice Problems
+
+- Program to find **shortest, tallest, and mean height** of football players.
+- Create a **NumberChecker utility class** with multiple static validation methods.
+- Program to generate **unique 6-digit OTPs** and validate randomness.
+- Program to display a **calendar for a given month and year**.
+- Program to calculate **Euclidean distance** and equation of a line between two points.
+- Program to check whether three points are **collinear**.
+- Program to calculate employee **bonus, old salary, and new salary** using methods and 2D arrays.
+- Program to perform **matrix operations**:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Transpose
+  - Determinant
+
+---
+
+### 🎯 Learning Outcomes
+
+- Designing static utility classes
+- Solving complex mathematical problems
+- Using randomness and validation logic
+- Working with geometry and matrices
+- Writing scalable, maintainable C# code
+
+---
+
 ## 👤 Author
 **Prashant Varshney**  
 B.Tech CSE (Data Analytics)  
