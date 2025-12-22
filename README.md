@@ -281,8 +281,7 @@ This branch focuses on string manipulation and exception handling in C#, startin
 ---
 
 - ## 📘 Level 02 – Advanced String Applications (C#)
-
-This level focuses on **advanced string problem solving**, including pattern analysis, transformations, comparisons, and real-world text processing without relying on built-in shortcuts.
+  This level focuses on **advanced string problem solving**, including pattern analysis, transformations, comparisons, and real-world text processing without relying on built-in shortcuts.
 
 ---
 
@@ -310,6 +309,79 @@ This level focuses on **advanced string problem solving**, including pattern ana
 - Solving real-world string manipulation problems
 - Strengthening algorithmic thinking using strings
 - Gaining confidence without relying on built-in methods
+
+---
+
+### 🔹 `methods` branch
+The **methods branch** focuses on building **modular, reusable, and clean code** using methods in C#.  
+Problems are structured to help understand **parameter passing, return values, static methods, recursion, utility classes**, and real-world computations using methods.
+This branch is divided into **three progressive levels**, moving from basic method usage to advanced utility-based and mathematical applications.
+
+#### 📁 Levels
+- ## 📘 Level 01 – Fundamentals of Methods (C#)
+  This level introduces **basic method creation**, parameter passing, return values, and simple mathematical and logical computations.
+
+---
+
+### 📝 Practice Problems
+
+- Program to calculate **Simple Interest** using a method.
+- Program to calculate the **maximum number of handshakes** among N students using a method.
+- Program to find the **number of rounds an athlete must run** to complete 5 km in a triangular park.
+- Program to check whether a number is **positive, negative, or zero** using a method.
+- Program to check whether a given date falls in the **Spring Season**.
+- Program to find the **sum of n natural numbers** using a method.
+- Program to find the **smallest and largest of three numbers** using a single method.
+- Program to calculate **quotient and remainder** using a method.
+- Program to divide chocolates among children and find **remaining chocolates**.
+- Program to calculate **Wind Chill Temperature** using a method.
+- Program to calculate **trigonometric values** using the `Math` class.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Writing and calling methods with parameters
+- Returning single and multiple values
+- Separating logic from the main method
+- Using Math class functions
+- Improving readability and reusability
+
+---
+
+- ## 📘 Level 02 – Intermediate Method Applications (C#)
+  This level focuses on **arrays with methods**, recursion, validation logic, and utility-style programming.
+
+---
+
+### 📝 Practice Problems
+
+- Program to find factors of a number and compute:
+  - Sum of factors
+  - Product of factors
+  - Sum of squares of factors (using methods)
+- Program to calculate sum of n natural numbers using **recursion** and compare with formula.
+- Program to check whether a year is a **Leap Year** using a method.
+- Create a **UnitConverter utility class** with static methods:
+  - km to miles, miles to km, meters to feet, feet to meters
+  - yards to feet, feet and yards, meters to inches, inches to meters and cm
+  - farh to cel, cel to farh, pounds to kg, kg to pounds, gallons to litre, litre to gallons 
+- Program to check voting eligibility of 10 students using methods.
+- Program to find the **youngest and tallest** among Amar, Akbar, and Anthony using methods.
+- Program to analyze 5 numbers for positivity, even/odd status, and comparison.
+- Program to calculate **BMI** of 10 people using methods.
+- Program to find **roots of a quadratic equation**.
+- Program to generate random numbers and find **average, minimum, and maximum**.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Using methods with arrays
+- Implementing recursion
+- Building utility/helper classes
+- Validating input inside methods
+- Applying methods to real-world scenarios
 
 ---
 
